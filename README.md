@@ -212,9 +212,14 @@ NEXT_PUBLIC_API_URL=  # Empty for same-origin (nginx proxy)
 
 ## 📸 Screenshots
 
-- **Chat Interface**: Azure-styled chat with streaming AI responses and citation panel
-- **Assessment**: Mixed MCQ + open-ended quizzes with AI grading
-- **Progress Dashboard**: Learning analytics with skills, topic scores, and activity tracking
+### Chat Interface with RAG & Citations
+![Chat](docs/screenshots/chat.png)
+
+### Learning Assessment (MCQ + Open-ended)
+![Assessment](docs/screenshots/assessment.png)
+
+### Progress Dashboard
+![Progress](docs/screenshots/progress.png)
 
 ## 🙏 Acknowledgments
 
